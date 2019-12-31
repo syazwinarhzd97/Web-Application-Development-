@@ -32,7 +32,6 @@ public class Deletion extends HttpServlet {
 
 
 
-	
 
 	   //instantiate studentBean class
 
