@@ -23,7 +23,6 @@ public class Healthc {
 
 	
 
-
 	public Healthc(){
 
 	 catID = "0";
