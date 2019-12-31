@@ -20,9 +20,7 @@
                     <input type = "submit" value = "Login">
  <input type = "reset" value = "Clear">
  <tr>
-
 <td colspan="3" align="center"><br><font face="Arial, Helvetica, sans-serif" size="2"><a href="signout.jsp">Sign Up</a></font></td>
-
 </tr>
 </form>
 </div>
