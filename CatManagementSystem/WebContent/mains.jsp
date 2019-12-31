@@ -38,7 +38,6 @@
 
                         </table>
                     </form>
-
     </div>
     <a href="logout.jsp">logout</a>
     </center>
