@@ -169,15 +169,13 @@
 <% 	 
 
            
-
         // close the statement and database connection
 
            statement.close();
 
            con.close();
 
-        
-
+       
     
 
  %>
