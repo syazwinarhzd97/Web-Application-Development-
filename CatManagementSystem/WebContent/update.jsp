@@ -128,8 +128,7 @@
 </html>
 
 <% 	 
-
-           
+        
 
         // close the statement and database connection
 
