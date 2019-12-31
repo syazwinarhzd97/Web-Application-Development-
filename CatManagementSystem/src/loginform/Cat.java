@@ -10,7 +10,6 @@ public class Cat {
 
 	 private String color;
 
-	
 
 
 	public Cat(){
