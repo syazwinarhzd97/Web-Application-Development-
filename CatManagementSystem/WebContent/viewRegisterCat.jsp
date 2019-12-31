@@ -49,8 +49,6 @@
 
 </tr>
 
-
-
 <tr>
 
 <td><font face="Arial, Helvetica, sans-serif" size="2">Breed</font></td>
