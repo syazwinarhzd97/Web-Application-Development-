@@ -3,9 +3,6 @@ import java.sql.*;
 public class Adopter {
 	private String adopt;
 
-	
-	
-
 
 	 private String ic;
 	 private String gender;
